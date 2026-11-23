@@ -1,49 +1,118 @@
 ---
-title: "Privacy"
+title: "গোপনীয়তা"
 slug: privacy
 original_url: https://jonathanmccallum.com/privacy/
 ---
 
-# Privacy
+# গোপনীয়তা
 
-This site is run by Jonathan McCallum. It is a small personal site: writing, and a chat that answers from that writing. There are no accounts, no tracking, no advertising, and nothing for sale.
+এই সাইটটি চালান জোনাথন ম্যাককালাম, যিনি স্পেনের গেতারিয়ায় থাকেন। এটি একটি ছোট ব্যক্তিগত সাইট: লেখা, আর সেই লেখা থেকে উত্তর দেওয়া একটি চ্যাট। এখানে কোনো অ্যাকাউন্ট খুলতে হয় না, কোনো ট্র্যাকিং নেই, কোনো বিজ্ঞাপন নেই, আর বিক্রির কিছু নেই। এটি বিশ্বের যেখানেই আপনি থাকুন না কেন, সবার জন্য ইউরোপীয় গোপনীয়তা আইন (GDPR) অনুসরণ করে।
 
-If you need to ask about anything on this page, or about your personal data, write to Jonathan at <a href="#" data-contact-email data-contact-email-text>Email me</a>. You can also message him on [Instagram](https://www.instagram.com/jonamccallum) or [Threads](https://www.threads.com/@jonamccallum).
+এই পৃষ্ঠা সম্পর্কে বা আপনার ব্যক্তিগত তথ্য সম্পর্কে কিছু জানতে চাইলে, জোনাথনকে লিখুন: <a href="#" data-contact-email data-contact-email-text>আমাকে ইমেইল করুন</a>। আপনি তাঁকে [ইনস্টাগ্রামে](https://www.instagram.com/jonamccallum) বা [থ্রেডসে](https://www.threads.com/@jonamccallum) মেসেজও করতে পারেন।
 
-## The chat: "Interact with Jonathan's writing"
+## আপনার তথ্যের জন্য কে দায়ী
 
-When you type a question, it is sent to Cloudflare — the company that hosts this site — so its AI can look through Jonathan's published writing and draft an answer. The answer comes only from his writing, with a link to the post it came from.
+জোনাথন ম্যাককালাম এই সাইটের ডেটা কন্ট্রোলার। অর্থাৎ কী সংগ্রহ করা হবে আর কেন, তা তিনিই ঠিক করেন। তিনি কোনো কোম্পানি নন, আর এখানে কোনো ডেটা প্রোটেকশন অফিসারও নেই — এমন ছোট ব্যক্তিগত সাইটের তা দরকার হয় না।
 
-- The site does not store your questions.
-- The chat is not Jonathan. It is an AI, and it can get things wrong.
-- Cloudflare is a US company, so your question may be processed outside Europe. That transfer is part of running the chat.
+## কী সংগ্রহ করা হয়, আর কেন
 
-## Leave a note
+### চ্যাট: "জোনাথনের লেখার সঙ্গে কথা বলুন"
 
-Notes are anonymous. The site asks for no name, no email, and no social media handle — please don't put personal details in a note. A note is stored on Cloudflare until Jonathan has read it, then it is deleted. If you would like a reply, write to him at <a href="#" data-contact-email data-contact-email-text>Email me</a> or message him on social media instead.
+আপনি প্রশ্ন টাইপ করলে, তা Cloudflare-এ পাঠানো হয় — যে কোম্পানি এই সাইটটি হোস্ট করে — যাতে তাদের AI জোনাথনের প্রকাশিত লেখা খুঁজে উত্তর তৈরি করতে পারে। উত্তর আসে শুধু তাঁর লেখা থেকেই, আর সঙ্গে থাকে যে লেখা থেকে নেওয়া হয়েছে তার লিংক।
 
-## What is not collected
+- আপনার প্রশ্নটি নিজে সংরক্ষণ করা হয় না। এটিকে একমুখী কোডে (হ্যাশ) বদলে নেওয়া হয়, যাতে একই প্রশ্ন আর কেউ করলে সাইটটি সংরক্ষিত উত্তরটি খুঁজে পায়। ভালো উত্তরগুলো ৭ দিন রাখা হয়, তারপর মুছে ফেলা হয়।
+- চ্যাট জোনাথন নন। এটি একটি AI, আর এটি ভুল করতে পারে।
+- চ্যাটের আইনি ভিত্তি হলো বৈধ স্বার্থ: প্রকাশিত লেখা থেকে প্রশ্নের উত্তর দেওয়া একটি ছোট সাইট চালানো।
 
-- No cookies, no tracking, no analytics, no advertising.
-- Search runs entirely on your own device.
-- A YouTube video only loads if you tap play on it.
-- The site never asks for your email address or social media details. If you ever see a form here asking for them, it is not part of this site — please don't fill it in.
+### সাইন ইন
 
-## Your rights under European law (GDPR)
+আপনি Google, Instagram, LINE বা ইমেইলের মাধ্যমে সাইন ইন করতে পারেন, যাতে জোনাথন বুঝতে পারেন যে একটি গল্প, পরামর্শ বা মন্তব্য সত্যিই আপনার কাছ থেকে এসেছে। সাইন ইন শুধু প্রমাণ করে আপনি কে। এটি আপনার হয়ে কিছু পোস্ট করতে পারে না, আপনার মেসেজ পড়তে পারে না, বা কোনো ব্যক্তিগত কিছু দেখতে পারে না। আপনার লগইন শুধু আপনার আর Google, Instagram, LINE বা আপনার ইমেইল প্রদানকারীর মধ্যে থাকে — এই সাইট কখনো আপনার পাসওয়ার্ড দেখে না।
 
-This site follows the EU's General Data Protection Regulation (GDPR) as its standard, wherever you are in the world.
+প্রতিটি সাইন ইন সাইটের সঙ্গে যা শেয়ার করে:
 
-- You can ask what personal data, if any, this site holds about you.
-- You can ask for it to be corrected or deleted, or for its use to be restricted.
-- You can object to its use, and you can complain to your local data protection authority. Jonathan lives in Spain, where the authority is the AEPD (Agencia Española de Protección de Datos).
-- Because the site stores nothing that identifies you — no accounts, no emails, no tracking — there is usually nothing to show or delete. Ask anyway and he will answer.
+- Google: আপনার নাম আর আপনার যাচাই করা ইমেইল ঠিকানা।
+- Instagram: আপনার ইউজারনেম আর আপনার প্রোফাইল লিংক।
+- LINE: LINE-এ আপনি যে নাম দেখান।
+- ইমেইল: আপনার ইমেইল ঠিকানা, যা প্রমাণিত হয় ৬ সংখ্যার একটি কোড দিয়ে, যা একবারই কাজ করে আর ১০ মিনিট পর মেয়াদ শেষ হয়ে যায়।
 
-The legal basis for the chat is legitimate interest: running a small site that answers questions from published writing. The legal basis for a note is your consent: you choose to leave one.
+আপনার সাইন-ইন তথ্য শুধু জোনাথনকে দেখানো হয়, যাতে তিনি যাচাই করতে পারেন আপনি আসল মানুষ কি না, আর আপনাকে উত্তর দিতে পারেন। এগুলো কখনো সাইটে প্রকাশ্যে দেখানো হয় না। আইনি ভিত্তি হলো আপনার সম্মতি: আপনি নিজে সাইন ইন করতে চান।
 
-## Children
+### আপনার গল্প শেয়ার করুন (সাক্ষাৎকার)
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+আপনি আপনার গল্প শেয়ার করলে, সাইটটি আপনার নাম, আপনার সোশ্যাল প্রোফাইল লিংক, আর তিনটি প্রশ্নের আপনার উত্তর সংরক্ষণ করে, সঙ্গে থাকে আপনি কোন সাইন-ইন ব্যবহার করেছেন আর আপনার প্রোফাইল যাচাই করা হয়েছে কি না তার একটি নোট। জোনাথন প্রথমে তা পরীক্ষা করে আপনার সঙ্গে কথা না বলা পর্যন্ত কিছুই প্রকাশ করা হয় না। আইনি ভিত্তি হলো আপনার সম্মতি: আপনি নিজে পাঠাতে চান, আর অনুমতির বাক্সে টিক দেন।
 
-## Changes
+### একজন শিল্পীর পরামর্শ দিন
 
-This page will be updated if anything about the site changes. Last updated 21 November 2026.
+আপনি একজন শিল্পীর পরামর্শ দিলে, সাইটটি শিল্পীর নাম আর প্রোফাইল লিংক, আপনি জোনাথনকে তাঁকে নিয়ে কী করতে চান, কেন তাঁকে, আর আপনি দিলে আপনার নাম আর লিংক সংরক্ষণ করে। সাইন ইন করার দরকার নেই। আইনি ভিত্তি হলো আপনার সম্মতি।
+
+### একটি নোট রাখুন
+
+নোটগুলো বেনামে থাকে। সাইটটি কোনো নাম, ইমেইল বা সোশ্যাল মিডিয়া হ্যান্ডেল চায় না — অনুগ্রহ করে নোটে ব্যক্তিগত তথ্য দেবেন না। একটি নোট রাখা হয় যতক্ষণ না জোনাথন তা পড়ে মুছে ফেলেন। উত্তর চাইলে, তাঁকে লিখুন: <a href="#" data-contact-email data-contact-email-text>আমাকে ইমেইল করুন</a> অথবা সোশ্যাল মিডিয়ায় তাঁকে মেসেজ করুন। আইনি ভিত্তি হলো আপনার সম্মতি: আপনি নিজে নোট রাখতে চান।
+
+### মন্তব্য
+
+আপনি কোনো লেখায় মন্তব্য করলে, সাইটটি আপনার নাম, আপনার মন্তব্য, আর আপনি যোগ করলে আপনার সোশ্যাল প্রোফাইল বা ভিডিওর লিংক সংরক্ষণ করে। মন্তব্যগুলো দেখানোর আগে জোনাথন পরীক্ষা করেন। আইনি ভিত্তি হলো আপনার সম্মতি।
+
+### অনুসন্ধান
+
+অনুসন্ধান সম্পূর্ণভাবে আপনার নিজের ডিভাইসেই চলে। আপনি যা খোঁজেন, তার কিছুই কোথাও পাঠানো হয় না।
+
+### ভিডিও
+
+আপনি চালানোর বোতাম চাপলেই কেবল একটি YouTube ভিডিও লোড হয়। তার আগে কোনো ভিডিও লোড হয় না, আর YouTube-এ কিছুই পাঠানো হয় না।
+
+## কুকি
+
+এই সাইটটি খুব কম কুকি ব্যবহার করে। এর কোনোটিই আপনাকে ট্র্যাক করে না।
+
+| কুকি বা স্টোরেজ | এটি কী করে | কতদিন থাকে |
+|---|---|---|
+| `interview_session` | আপনি গল্প শেয়ার করা বা মন্তব্য করার সময় আপনাকে সাইন ইন রাখে। | ১ ঘণ্টা |
+| `theme` (আপনার ডিভাইসে সংরক্ষিত) | আপনি হালকা না গাঢ় থিম বেছেছেন, তা মনে রাখে। | যতক্ষণ না আপনি বদলান |
+| `cookie-consent` (আপনার ডিভাইসে সংরক্ষিত) | আপনি কুকি গ্রহণ করেছেন না প্রত্যাখ্যান করেছেন, তা মনে রাখে, যাতে ব্যানারটি আর জিজ্ঞেস না করে। | যতক্ষণ না আপনি বদলান |
+| Google সাইন-ইন | শুধু আপনি কুকি গ্রহণ করলেই: Google-এর নিজস্ব সাইন-ইন বোতাম Google থেকে লোড হয়, আর Google নিজের কুকি বসাতে পারে। [Google-এর গোপনীয়তা নীতি](https://policies.google.com/privacy) দেখুন। | Google ঠিক করে |
+
+প্রথমবার এলে আপনি একটি কুকি ব্যানার দেখবেন। এতে দুটি বোতাম পাশাপাশি থাকে, গ্রহণ করুন আর প্রত্যাখ্যান করুন। দুটো একই কাজ করে — এতে কোনো চালাকি নেই। প্রত্যাখ্যান করলেও সাইটটি চলবে: আপনি সব পড়তে পারবেন, চ্যাট ব্যবহার করতে পারবেন, আর Instagram, LINE বা ইমেইলে সাইন ইন করতে পারবেন। শুধু Google সাইন-ইন বোতামটি বন্ধ থাকবে, কারণ এটি লোড হতে Google-এর কুকি দরকার। যেকোনো পৃষ্ঠার নিচে "কুকি সেটিংস" লিংক দিয়ে যেকোনো সময় আপনি আপনার মত বদলাতে পারবেন।
+
+## আপনার তথ্য কোথায় থাকে
+
+সাইটটি হোস্ট করে Cloudflare, একটি মার্কিন কোম্পানি। পৃষ্ঠাগুলো, চ্যাট, সাইন-ইন আর সংরক্ষিত নোটগুলো Cloudflare-এর নেটওয়ার্কে থাকে, যুক্তরাষ্ট্রে আর ইউরোপে। ইমেইল সাইন-ইন কোড পাঠায় Resend, এটিও একটি মার্কিন কোম্পানি: ইমেইলগুলো আয়ারল্যান্ড থেকে পাঠানো হয়, কিন্তু Resend ইমেইল আর ডেলিভারির তথ্য যুক্তরাষ্ট্রে ৩০ দিন সংরক্ষণ করে। নতুন নোট, গল্প আর পরামর্শ সম্পর্কে জোনাথন যে ইমেইলগুলো পান, সেগুলো তাঁর নিজের Gmail অ্যাকাউন্টে যায়।
+
+ইউরোপের বাইরে স্থানান্তর Cloudflare আর Resend-এর ডেটা প্রসেসিং চুক্তির স্ট্যান্ডার্ড চুক্তি ধারা, আর EU–US ডেটা প্রাইভেসি ফ্রেমওয়ার্ক দ্বারা সুরক্ষিত, যাতে দুটি কোম্পানিই অংশ নেয়।
+
+## জিনিসগুলো কতদিন রাখা হয়
+
+- সাইন-ইন সেশন: ১ ঘণ্টা। সাইন-ইন কোড: ১০ মিনিট।
+- চ্যাটের উত্তর: ৭ দিন, তারপর মুছে ফেলা হয়।
+- নোট, গল্প, পরামর্শ আর মন্তব্য: জোনাথন সেগুলো দেখে মুছে ফেলা পর্যন্ত রাখা হয়।
+- Resend-এর সাইন-ইন কোড: Resend ৩০ দিন রাখে।
+
+## বিক্রি আর বিজ্ঞাপন
+
+এই সাইট আপনার ব্যক্তিগত তথ্য বিক্রি করে না। এটি বিজ্ঞাপনের জন্য আপনার তথ্য শেয়ার করে না, আর এই সাইটে কোনো বিজ্ঞাপন নেই। আপনার তথ্য নিয়ে কাজ করে এমন অন্যরা শুধু উপরে বলা পরিষেবাগুলো (Cloudflare, Resend আর Gmail), যারা শুধু সাইটটি চালানোর জন্যই তা প্রসেস করে।
+
+## ইউরোপীয় আইনের (GDPR) অধীনে আপনার অধিকার
+
+এই সাইট ইউরোপীয় ইউনিয়নের সাধারণ তথ্য সুরক্ষা নিয়ন্ত্রণ (GDPR) কে তার মান হিসেবে অনুসরণ করে, আপনি বিশ্বের যেখানেই থাকুন না কেন।
+
+- আপনি জানতে চাইতে পারেন এই সাইট আপনার সম্পর্কে কোনো ব্যক্তিগত তথ্য রাখে কি না, রাখলে কী।
+- আপনি তা সংশোধন বা মুছে ফেলতে, বা এর ব্যবহার সীমিত করতে বলতে পারেন।
+- আপনি এর একটি কপি চাইতে পারেন, আর এর ব্যবহারে আপত্তি জানাতে পারেন।
+- আপনি যেকোনো সময় আপনার সম্মতি ফিরিয়ে নিতে পারেন — যেমন সাইন আউট করে, বা জোনাথনকে যা পাঠিয়েছেন তা মুছে ফেলতে বলে।
+- আপনি আপনার স্থানীয় ডেটা প্রোটেকশন কর্তৃপক্ষের কাছে অভিযোগ করতে পারেন। জোনাথন স্পেনে থাকেন, যেখানে কর্তৃপক্ষ হলো AEPD (Agencia Española de Protección de Datos, aepd.es)।
+
+সাইটটি এত কম তথ্য রাখে বলে, দেখানোর বা মোছার মতো সাধারণত কিছুই থাকে না। তবু জিজ্ঞেস করুন, তিনি উত্তর দেবেন। জানতে চাইলে, জোনাথনকে লিখুন: <a href="#" data-contact-email data-contact-email-text>আমাকে ইমেইল করুন</a>, অথবা তাঁকে [ইনস্টাগ্রামে](https://www.instagram.com/jonamccallum) বা [থ্রেডসে](https://www.threads.com/@jonamccallum) মেসেজ করুন।
+
+## শিশু
+
+এই সাইটটি 18 বছরের কম বয়সীদের জন্য নয়। এখানে যীশুতে বিশ্বাসের কথা বলা হয়, আর তা ধর্মীয় বিষয়, তাই এটি প্রাপ্তবয়স্কদের জন্য লেখা। আপনার বয়স 18 বছরের কম হলে, এখানে ব্যক্তিগত তথ্য শেয়ার করবেন না, এবং জোনাথনকে লিখবেন না।
+
+স্পেনে আইন বলে, 14 বছরের কম বয়সী শিশু অনলাইনে ব্যক্তিগত তথ্য শেয়ার করার আগে বাবা-মা বা অভিভাবকের সম্মতি লাগবে। এই সাইটের নিজের নিয়ম এর চেয়ে কঠোর: বয়স 18 বছরের কম হলে, এই সাইট আপনার জন্য নয়।
+
+## আইনি বিজ্ঞপ্তি
+
+এটি একটি ব্যক্তিগত ওয়েবসাইট। এখানে সবকিছু জোনাথনের নিজের লেখা আর তাঁর নিজের মত। এটি কোনো ধরনের পেশাদার পরামর্শ নয় — চিকিৎসা, আইনি, আর্থিক বা অন্য কোনো বিষয়ে নয়। চ্যাট শুধু তাঁর প্রকাশিত লেখা থেকেই উত্তর দেয়, আর এটি ভুল করতে পারে। এই সাইটে কিছু ভুল বা পুরনো থাকলে, তাঁকে জানান, তিনি ঠিক করে দেবেন।
+
+## পরিবর্তন
+
+সাইট সম্পর্কে কিছু বদলালে এই পৃষ্ঠাটি আপডেট করা হবে। সর্বশেষ আপডেট: ২৩ নভেম্বর ২০২৬।

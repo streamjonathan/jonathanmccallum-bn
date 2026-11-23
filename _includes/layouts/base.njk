@@ -108,7 +108,8 @@
 </main>
 <footer class="site-footer">
   <p><a class="return-home" href="https://jonathanmccallum.com{{ page.url }}">Return home to Jonathan <span lang="bn">· জোনাথনের কাছে ফিরে যান</span></a></p>
-    <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">অনুসন্ধান</a> · <a href="/privacy/">গোপনীয়তা</a></p>
+  <p class="translation-note">আমি সত্যিই আশা করি অনুবাদটি ঠিক হয়েছে — সম্ভবত এতে কিছু ভুল আছে।</p>
+    <p>{{ site.title }} — <a href="/feed/">RSS feed</a> · <a href="/search/">অনুসন্ধান</a> · <a href="/privacy/">গোপনীয়তা</a> · <a href="#" id="cookie-settings">কুকি সেটিংস</a></p>
   <p>Connect — <a href="https://www.instagram.com/jonamccallum">Instagram</a> · <a href="https://www.threads.com/@jonamccallum">Threads</a> · <a href="https://www.youtube.com/@Jonathanmccallum1">YouTube</a> · <a href="https://jonamccallum.substack.com">Substack</a> · <a href="/feed/">RSS</a></p>
   <p>হাই বলুন — <a href="#" data-contact-email data-contact-email-text>আমাকে ইমেইল করুন</a></p>
   <p>Built with Eleventy, hosted on Cloudflare Pages.</p>
@@ -117,5 +118,13 @@
 <script src="/js/contact.js?v=1" defer></script>
 <script src="/js/suggest.js?v=1" defer></script>
 <script src="/js/interview.js?v=1" defer></script>
+<script src="/js/consent.js?v=1" defer></script>
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-label="কুকি" hidden>
+  <p><strong>কুকি.</strong> এই সাইটটি বিষয়টি সহজ রাখে: এটি শুধু আপনার নিজের ডিভাইসে আপনার হালকা বা গাঢ় থিমের পছন্দটি মনে রাখে। এখানে কিছুই আপনাকে ট্র্যাক করে না। <a href="/privacy/">গোপনীয়তা পৃষ্ঠাটি পড়ুন</a>.</p>
+  <p class="cookie-banner__buttons">
+    <button id="cookie-accept" type="button">গ্রহণ করুন</button>
+    <button id="cookie-reject" type="button">প্রত্যাখ্যান করুন</button>
+  </p>
+</div>
 </body>
 </html>
