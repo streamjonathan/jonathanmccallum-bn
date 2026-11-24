@@ -47,11 +47,6 @@ shareImage: /images/music-faith/timatmajhi_3.jpg
 <span class="ig-card__text"><span class="ig-card__name">Hosehnn</span>
 <span class="ig-card__note">বাংলায় উপাসনার গানে ঠোঁট মেলাচ্ছেন।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DclVH6HxQQZ/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/christian___girl____.jpg" alt="Suhani" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Suhani</span>
-<span class="ig-card__note">বাংলায় ভক্তিমূলক গান গাইছেন — যীশুই জীবনের পথ।</span></span>
-</a>
 <a class="ig-card" href="https://www.instagram.com/reel/Dc0XRUXOC6r/" target="_blank" rel="noopener">
 <img class="ig-card__img" src="/images/music-faith/binitasabar63.jpg" alt="Binita" loading="lazy" width="150" height="150">
 <span class="ig-card__text"><span class="ig-card__name">Binita</span>
@@ -79,7 +74,7 @@ shareImage: /images/music-faith/timatmajhi_3.jpg
 </a>
 </div>
 
-আমি ভাবছি কোন গানগুলো আপনাকে বহন করেছে। কোন গান আপনার বিশ্বাসকে ধরে রেখেছিল, যখন শব্দ ফুরিয়ে গিয়েছিল? আর এই বারোজনের মধ্যে আপনি প্রথমে কাকে শুনবেন?
+আমি ভাবছি কোন গানগুলো আপনাকে বহন করেছে। কোন গান আপনার বিশ্বাসকে ধরে রেখেছিল, যখন শব্দ ফুরিয়ে গিয়েছিল? আর এই এগারোজনের মধ্যে আপনি প্রথমে কাকে শুনবেন?
 
 আপনি কী শুনছেন, আমাকে জানান। আমি সবসময় নতুন গান খুঁজছি।
 
